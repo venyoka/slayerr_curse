@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+}
+
+body,
+h1,
+h2,
+div,
+p {
+    margin: 0;
+}
+
+body {
+    padding: 35px 143px;
+    font-family: "stratosSkyEng", sans-serif;
+    color: #fff;
+    background: linear-gradient(130deg, rgba(173, 97, 255, 1) 0%, rgba(134, 119, 225, 1) 45%, rgba(0, 193, 255, 1) 100%);
+}
+
+th,
+td {
+    border: 1px solid white;
+    padding: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    background-color: yellowgreen;
+    font-size: 28px;
+}
+
+td {
+    font-size: 24px;
+}
+
+h1 {
+    font-size: 64px;
+    font-weight: normal;
+}
+
+h2 {
+font-size: 36px;
+font-weight: normal;
+margin-bottom: 20px;
+margin-left: 35px;
+
+}
+
+div {
+    margin-top: 26px;
+
+}
+li {
+    font-size: 24px;
+}
+
